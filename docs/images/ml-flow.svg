@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <rect width="1200" height="320" rx="24" fill="#0f172a"/>
+  <text x="60" y="58" fill="#e2e8f0" font-family="Arial" font-size="28" font-weight="700">Fluxo do projeto</text>
+  <g font-family="Arial" font-size="18" text-anchor="middle">
+    <rect x="55" y="115" width="200" height="105" rx="16" fill="#1e3a8a"/><text x="155" y="157" fill="#dbeafe">1. Dados</text><text x="155" y="187" fill="#bfdbfe">Preço + categoria</text>
+    <rect x="285" y="115" width="200" height="105" rx="16" fill="#155e75"/><text x="385" y="157" fill="#cffafe">2. Preparação</text><text x="385" y="187" fill="#a5f3fc">One-hot encoding</text>
+    <rect x="515" y="115" width="200" height="105" rx="16" fill="#166534"/><text x="615" y="157" fill="#dcfce7">3. Treino</text><text x="615" y="187" fill="#bbf7d0">Mínimos quadrados</text>
+    <rect x="745" y="115" width="200" height="105" rx="16" fill="#854d0e"/><text x="845" y="157" fill="#fef9c3">4. Avaliação</text><text x="845" y="187" fill="#fef08a">MAE + R² + baseline</text>
+    <rect x="975" y="115" width="170" height="105" rx="16" fill="#7c2d12"/><text x="1060" y="157" fill="#ffedd5">5. Uso</text><text x="1060" y="187" fill="#fed7aa">Streamlit</text>
+  </g>
+  <g stroke="#94a3b8" stroke-width="3" fill="none"><path d="M255 168h30m200 0h30m200 0h30m200 0h30"/></g>
+</svg>
