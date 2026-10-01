@@ -4,7 +4,7 @@ Aplicação educacional que estima a quantidade vendida de um produto a partir d
 
 ## Demonstração
 
-🌐 **Aplicação publicada:** será adicionada após o deploy no Streamlit Community Cloud.
+🌐 **Aplicação publicada:** [machine-learning-vendas-rantech](https://machine-learning-vendas-2ucg9wctybfguodcua7tak.streamlit.app/)
 
 ![Fluxo do modelo](docs/images/ml-flow.svg)
 
